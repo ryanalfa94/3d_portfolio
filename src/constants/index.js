@@ -51,7 +51,7 @@ import {
     },
   ];
   
-  const technologies = [
+  const hobbies = [
     {
       name: "Anime",
       icon: anime,
@@ -184,4 +184,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, hobbies, experiences, testimonials, projects };

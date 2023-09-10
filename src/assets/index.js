@@ -7,11 +7,11 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import workout from "./tech/workout.png";
-import soccer from "./tech/soccer.png";
-import anime from "./tech/anime.png";
-import code from "./tech/code.png";
-import travel from "./tech/travel.png";
+import workout from "./hobbies/workout.png";
+import soccer from "./hobbies/soccer.png";
+import anime from "./hobbies/anime.png";
+import code from "./hobbies/code.png";
+import travel from "./hobbies/travel.png";
 
 
 import emcc from "./company/emcc.png";
