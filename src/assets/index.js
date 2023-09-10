@@ -17,9 +17,9 @@ import travel from "./hobbies/travel.png";
 import emcc from "./company/emcc.png";
 
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import socialMedia from "./socialMedia.png";
+import cpu from "./cpu.png";
+import colorPicker from "./colorPicker.png";
 
 export {
   logo,
@@ -36,7 +36,7 @@ export {
   soccer,
   code,
   emcc,
-  carrent,
-  jobit,
-  tripguide,
+  socialMedia,
+  cpu,
+  colorPicker,
 };

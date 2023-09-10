@@ -12,9 +12,9 @@ import {
     
     emcc,
     
-    carrent,
-    jobit,
-    tripguide,
+    colorPicker,
+    socialMedia,
+    cpu,
   } from "../assets";
   
   export const navLinks = [
@@ -120,67 +120,52 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Complete CPU ",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Created a CPU using LogicWorks by using Pipelining to ensure optimal performance. CPU can perform multiple operations such as Add, Subtract, Compare, Load words from memory, and save to memory. ",
       tags: [
         {
-          name: "react",
+          name: "LogicWorks",
           color: "blue-text-gradient",
         },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: cpu,
     },
     {
-      name: "Job IT",
+      name: "Color Picker",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Created a color picker using Arduino and a color sensor leading a team of three people. Implemented agile development and organization to work efficiently for success.",
       tags: [
         {
-          name: "react",
+          name: " Arduino programming language ",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "3D modeling and printing",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: colorPicker,
     },
     {
-      name: "Trip Guide",
+      name: "social Media",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed a social media website for Engineering students by using HTML, CSS, and JavaScript.",
       tags: [
         {
-          name: "nextjs",
+          name: "HTML 5",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Java Script",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: socialMedia,
     },
   ];
   
