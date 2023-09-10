@@ -1,28 +1,20 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
-    javascript,
-    typescript,
-    html,
-    css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
-    mongodb,
-    git,
-    figma,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    java,
+    python,
+    cPlusPlus,
+    c,
+
+    workout,
+    anime,
+    travel,
+    soccer,
+    code,
+    
+    emcc,
+    
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -43,75 +35,43 @@ import {
   const services = [
     {
       title: "Java",
-      icon: web,
+      icon: java,
     },
     {
       title: "Python",
-      icon: mobile,
+      icon: python,
     },
     {
       title: "C++",
-      icon: backend,
+      icon: cPlusPlus,
     },
     {
       title: "C",
-      icon: creator,
+      icon: c,
     },
   ];
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Anime",
+      icon: anime,
+    }, 
+    {
+      name: "Workout",
+      icon: workout,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Travel",
+      icon: travel,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
-    },
+      name: "Code",
+      icon: code,
+    }, 
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
+      name: "Soccer",
+      icon: soccer,
+    }
   ];
   
   const experiences = [
@@ -119,7 +79,7 @@ import {
     {
       title: "Computer Science Tutor",
       company_name: "Estrella Mountain Community College",
-      icon: meta,
+      icon: emcc,
       iconBg: "#E6DEDD",
       date: "May 2022 - May 2023",
       points: [
