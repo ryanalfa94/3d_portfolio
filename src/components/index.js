@@ -5,7 +5,6 @@ import About from './About';
 import Hobbies from './Hobbies';
 import Experience from './Experience';
 import Works from './Works';
-import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 
 export {
@@ -15,7 +14,6 @@ export {
   Hobbies,
   Experience,
   Works,
-  Feedbacks,
   Contact,
   EarthCanvas, 
   BallCanvas, 
