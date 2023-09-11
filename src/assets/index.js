@@ -15,6 +15,7 @@ import travel from "./hobbies/travel.png";
 
 
 import emcc from "./company/emcc.png";
+import gnc from "./company/gnc.png";
 
 
 import socialMedia from "./socialMedia.png";
@@ -36,6 +37,7 @@ export {
   soccer,
   code,
   emcc,
+  gnc,
   socialMedia,
   cpu,
   colorPicker,

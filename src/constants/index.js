@@ -11,6 +11,7 @@ import {
     code,
     
     emcc,
+    gnc,
     
     colorPicker,
     socialMedia,
@@ -87,6 +88,18 @@ import {
         "Reviewed computer science class material with students to support their understanding and discovery of correct answers to problems.",
         "Incorporated technology from other subjects into lessons, expanding students' technical abilities with an integrated approach.",
         "Assisted students in developing and maintaining goal-oriented study habits for consistent academic success.",
+      ],
+    },
+    {
+      title: "Manager",
+      company_name: "GNC",
+      icon: gnc,
+      iconBg: "#E6DEDD",
+      date: "Feb 2019 - Feb 2022",
+      points: [
+        "In my role, I diligently followed GNC's prescribed selling methods, provided excellent customer service, managed inventory according to guidelines, and maintained strict quality control.",
+        "I efficiently handled work schedules, employee management, and maintained store presentation standards.",
+        "My responsibilities also included overseeing store operations and achieving sales and profit goals, all while adhering to company policies.",
       ],
     },
   ];
