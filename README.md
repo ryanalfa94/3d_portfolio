@@ -1,4 +1,4 @@
-# 🚀 Ryan Alfa - 3D Developer Portfolio
+# 🚀 Ryan Alfa - 3D Portfolio
 
 A modern, animated 3D developer portfolio built with **React**, **Three.js**, **Framer Motion**, and **Tailwind CSS**. This project showcases my work, skills, and contact information with a clean, mobile-friendly, and interactive UI.
 
